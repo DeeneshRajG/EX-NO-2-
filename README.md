@@ -225,6 +225,3 @@ int main() {
 ## Result:
 Successfully the c-program to implemnt Playfair-Cipher.
 
-
-
-Output:
