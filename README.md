@@ -222,6 +222,7 @@ int main() {
 ```
 ## Output:
 <img width="1892" height="633" alt="image" src="https://github.com/user-attachments/assets/40d8a713-9533-49db-8d0c-eca0685a2b49" />
+
 ## Result:
 Successfully the c-program to implemnt Playfair-Cipher.
 
